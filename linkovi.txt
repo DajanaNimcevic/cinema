@@ -1,0 +1,6 @@
+https://github.com/versatilecoder/Movie-Ticket-online-seat-Selection-Script
+https://www.vertabelo.com/blog/a-database-model-for-a-movie-theater-reservation-system/
+https://stackoverflow.com/questions/52938427/sql-cinema-reservation-schema-get-the-proper-data
+https://github.com/iamshezad/SHSeatSelection
+https://github.com/gzhtml5/seat
+https://codepen.io/ArvindSPanicker/pen/QQVZmw
